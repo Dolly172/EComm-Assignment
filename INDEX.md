@@ -259,8 +259,4 @@ After reading the documentation:
 6. ✅ Review the source code
 7. ✅ Experiment with modifications
 
----
 
-**Happy Learning! 🚀**
-
-If you need help, refer to the specific document mentioned above or check the inline code comments.
